@@ -1,0 +1,1 @@
+This program implements a simple banking system that allows you to create, view and delete an account, transfer money and top up your balance. The project uses the Sqlite3 library for working with databases.
